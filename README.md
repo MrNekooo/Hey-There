@@ -1,5 +1,5 @@
 # Hey-There
- Hey There, I'm Nekooo, I'm 19
+ Hey There, I'm Nekooo and 19
 
 I'm a front end developer and I enjoy to code
 I love creating new stuff
